@@ -1,0 +1,11 @@
+server:
+  port: 9909
+  
+rest:
+  endpoint: http://localhost:8080/api/getAll
+  
+post:
+  endpoint: http://localhost:8080/api/post
+  
+entity:
+  endpoint: http://localhost:8080/api/add
